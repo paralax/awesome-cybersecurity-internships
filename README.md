@@ -23,6 +23,13 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Dell](http://www.dell.com/learn/us/en/uscorp1/undergraduate-students) - Client Solutions Group Engineering Intern Program
 * [US Department of Homeland Security](https://www.cybercareers.gov/students-universities/find-a-job/) - Fellowship and Internship Programs
 * [FireEye](https://www.marylandjobnetwork.com/job/detail/26339003/Cyber-Security-Analyst-Internships-Summer-2018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Analyst Internships (Summer 2018)
+* [FireEye](https://core.infosecconnect.com/jobs/FireEye/Incident-Response-Red-Team-Internships-Summer-2018/zery5e2u3u/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Incident Response & Red Team Internships -Summer 2018
+* [Booz Allen Hamilton](https://careers.boozallen.com/job/Summer-Intern-Corporate-Cyber-Security-Operations/J3R51P679C3B00TDK87?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Corporate Cyber Security Operations Summer Intern in McLean, VA at Booz Allen Hamilton
+* [Northrop Grumman](https://ngc.taleo.net/careersection/ngc_addlinfo/jobdetail.ftl?job=1205864&lang=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - 2018 New Cyber Security Intern
+* [Northrop Grumman](https://www.themuse.com/jobs/northropgrumman/new-2018-cyber-securityit-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - 2018 Cyber Security/IT Intern
+* [Intel Security](https://cybersecjobs.com/job/jr0055248-software-engineer-intern-2018-folsom-california-410791?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - JR0055248 - Software Engineer - Intern 2018
+* [Salesforce](https://www.ziprecruiter.com/ojob/9ed97e5a2c2eecc1c6348aa30f2baf41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Summer 2018 Intern, Data Visualization and Analysis - Cyber Security
+* [FS-ISAC](http://www.internships.com/it/cyber-security-internship-position-i8802960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Internship Position
 
 ## Tech internships but not cybersecurity specific
 
