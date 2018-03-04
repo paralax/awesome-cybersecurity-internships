@@ -21,6 +21,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) - Cybersecurity Internships particularly in DC, Chicago, Charlotte, Dallas. Reach out to Sounil Yu (@sounilyu) or David Hsiang (@DavidUSC44) for specific details.
 * [IAEA](https://iaea.taleo.net/careersection/interns/jobdetail.ftl?job=TAL-MTIT20171020-001&tz=GMT%2B01%3A00) - Internship - Security Systems Unit - (TAL-MTIT20171020-001) - 12 months, Vienna, AT
 * [Dell](http://www.dell.com/learn/us/en/uscorp1/undergraduate-students) - Client Solutions Group Engineering Intern Program
+* [US Department of Homeland Security](https://www.cybercareers.gov/students-universities/find-a-job/) - Fellowship and Internship Programs
 
 ## Tech internships but not cybersecurity specific
 
