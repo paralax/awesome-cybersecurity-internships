@@ -22,6 +22,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [IAEA](https://iaea.taleo.net/careersection/interns/jobdetail.ftl?job=TAL-MTIT20171020-001&tz=GMT%2B01%3A00) - Internship - Security Systems Unit - (TAL-MTIT20171020-001) - 12 months, Vienna, AT
 * [Dell](http://www.dell.com/learn/us/en/uscorp1/undergraduate-students) - Client Solutions Group Engineering Intern Program
 * [US Department of Homeland Security](https://www.cybercareers.gov/students-universities/find-a-job/) - Fellowship and Internship Programs
+* [FireEye](https://www.marylandjobnetwork.com/job/detail/26339003/Cyber-Security-Analyst-Internships-Summer-2018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Analyst Internships (Summer 2018)
 
 ## Tech internships but not cybersecurity specific
 
