@@ -17,3 +17,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 ## Teams with no specific internships listed
 
 * [Netflix](https://jobs.netflix.com/teams/security) - no internships listed but great cybersecurity team
+
+# Contributing
+
+When you contribute please submit a link for students to follow to the internship listing and a description.
