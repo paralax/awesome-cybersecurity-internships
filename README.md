@@ -1,6 +1,12 @@
 # awesome-cybersecurity-internships
 a list of cybersecurity internships, designed to help students identify teams and opportunities. 
 
+# Table of Contents
+  * [Specific cybersecurity internships](#specific-cybersecurity-internships)
+  * [Tech internships but not cybersecurity specific](#tech-internships-but-not-cybersecurity-specific)
+  * [Teams with no specific internships listed](#teams-with-no-specific-internships-listed)
+* [Contributing](#contributing)
+
 ## Specific cybersecurity internships
 
 * [Kaiser Permanente](https://www.kaiserpermanentejobs.org/job/pleasanton/application-security-intern/641/7308953) - Application Security Intern
