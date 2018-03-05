@@ -34,6 +34,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [AT&T](https://www.att.jobs/college/#cybersecurity-program) - Cybersecurity Development Program
 * [Major League Baseball](http://www.mlb.com/careers/boc/?gh_jid=1031237) - 2018 Spring Information Security Internship
 * [Duo](https://duo.com/about/careers/job/1044027) - Product Management Intern, Security
+* [CIRCL](https://www.circl.lu/projects/internships/) - CIRCL (Computer Incident Response Center Luxembourg) scholarships and internships opportunities in the field of incident response, cybersecurity and open source security tools.
 
 ## Tech internships but not cybersecurity specific
 
