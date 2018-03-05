@@ -30,6 +30,9 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Intel Security](https://cybersecjobs.com/job/jr0055248-software-engineer-intern-2018-folsom-california-410791?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - JR0055248 - Software Engineer - Intern 2018
 * [Salesforce](https://www.ziprecruiter.com/ojob/9ed97e5a2c2eecc1c6348aa30f2baf41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Summer 2018 Intern, Data Visualization and Analysis - Cyber Security
 * [FS-ISAC](http://www.internships.com/it/cyber-security-internship-position-i8802960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Internship Position
+* [AT&T](https://www.att.jobs/college/#cybersecurity-program) - Cybersecurity Development Program
+* [Major League Baseball](http://www.mlb.com/careers/boc/?gh_jid=1031237) - 2018 Spring Information Security Internship
+* [Duo](https://duo.com/about/careers/job/1044027) - Product Management Intern, Security
 
 ## Tech internships but not cybersecurity specific
 
