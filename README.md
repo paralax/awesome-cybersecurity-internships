@@ -9,6 +9,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 
 ## Specific cybersecurity internships
 
+* [GitHub](https://internships.github.com/) - Application Security Intern & Product Security Intern
 * [Kaiser Permanente](https://www.kaiserpermanentejobs.org/job/pleasanton/application-security-intern/641/7308953) - Application Security Intern
 * [Mozilla](https://careers.mozilla.org/position/gh/952913) - Networking and Security Intern
 * [X-Force](https://careers.ibm.com/ShowJob/Id/137789/X-Force-Red-Penetration-Testing-Summer-2018-Internship/) - X-Force Red Penetration Testing Summer 2018 Internship
