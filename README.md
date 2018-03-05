@@ -21,6 +21,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [FS-ISAC](http://www.internships.com/it/cyber-security-internship-position-i8802960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Internship Position
 * [FireEye](https://core.infosecconnect.com/jobs/FireEye/Incident-Response-Red-Team-Internships-Summer-2018/zery5e2u3u/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Incident Response & Red Team Internships -Summer 2018
 * [FireEye](https://www.marylandjobnetwork.com/job/detail/26339003/Cyber-Security-Analyst-Internships-Summer-2018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Analyst Internships (Summer 2018)
+* [GCHQ](https://www.gchq-careers.co.uk/early-careers/students.html) - Cyber Insights Programme Summer 2018
 * [GitHub](https://internships.github.com/) - Application Security Intern & Product Security Intern
 * [IAEA](https://iaea.taleo.net/careersection/interns/jobdetail.ftl?job=TAL-MTIT20171020-001&tz=GMT%2B01%3A00) - Internship - Security Systems Unit - (TAL-MTIT20171020-001) - 12 months, Vienna, AT
 * [Intel Security](https://cybersecjobs.com/job/jr0055248-software-engineer-intern-2018-folsom-california-410791?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - JR0055248 - Software Engineer - Intern 2018
