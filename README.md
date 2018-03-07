@@ -15,6 +15,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) - Cybersecurity Internships particularly in DC, Chicago, Charlotte, Dallas. Reach out to Sounil Yu (@sounilyu) or David Hsiang (@DavidUSC44) for specific details.
 * [Booz Allen Hamilton](https://careers.boozallen.com/job/Summer-Intern-Corporate-Cyber-Security-Operations/J3R51P679C3B00TDK87?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Corporate Cyber Security Operations Summer Intern in McLean, VA at Booz Allen Hamilton
 * [CIRCL](https://www.circl.lu/projects/internships/) - CIRCL (Computer Incident Response Center Luxembourg) scholarships and internships opportunities in the field of incident response, cybersecurity and open source security tools.
+* [Crowdstrike](https://www.crowdstrike.com/careers/?p=job%2Fovmo6fw5) - Strategic Counter Adversarial Research (SCAR) Intern
 * [Dell](http://www.dell.com/learn/us/en/uscorp1/undergraduate-students) - Client Solutions Group Engineering Intern Program
 * [Duo](https://duo.com/about/careers/job/1044027) - Product Management Intern, Security
 * [Electronic Arts](https://career4.successfactors.com/career?career_ns=job_listing&company=EA&career_job_req_id=116474) - Security Engineer Intern
