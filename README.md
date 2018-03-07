@@ -19,6 +19,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Dell](http://www.dell.com/learn/us/en/uscorp1/undergraduate-students) - Client Solutions Group Engineering Intern Program
 * [Duo](https://duo.com/about/careers/job/1044027) - Product Management Intern, Security
 * [Electronic Arts](https://career4.successfactors.com/career?career_ns=job_listing&company=EA&career_job_req_id=116474) - Security Engineer Intern
+* [F-Secure](https://emp.jobylon.com/jobs/18224-f-secure-techy-developer-summer-internship/) - Techy developer summer internship
 * [FS-ISAC](http://www.internships.com/it/cyber-security-internship-position-i8802960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Internship Position
 * [FireEye](https://core.infosecconnect.com/jobs/FireEye/Incident-Response-Red-Team-Internships-Summer-2018/zery5e2u3u/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Incident Response & Red Team Internships -Summer 2018
 * [FireEye](https://www.marylandjobnetwork.com/job/detail/26339003/Cyber-Security-Analyst-Internships-Summer-2018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Analyst Internships (Summer 2018)
