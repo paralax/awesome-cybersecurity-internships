@@ -35,6 +35,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [National Cyber Forensics Training Alliance](https://www.ncfta.net/Home/Internships) - NCFTA Internship Opportunities
 * [Northrop Grumman](https://ngc.taleo.net/careersection/ngc_addlinfo/jobdetail.ftl?job=1205864&lang=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - 2018 New Cyber Security Intern
 * [Northrop Grumman](https://www.themuse.com/jobs/northropgrumman/new-2018-cyber-securityit-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - 2018 Cyber Security/IT Intern
+* [Open Systems AG](https://opench.bamboohr.co.uk/jobs/view.php?id=31) - Twice a year we take interns in various, security related, roles.
 * [RSA](https://www.thersa.org/about-us/internships) - RSA internship opportunities
 * [Salesforce](https://www.ziprecruiter.com/ojob/9ed97e5a2c2eecc1c6348aa30f2baf41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Summer 2018 Intern, Data Visualization and Analysis - Cyber Security
 * [US Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180006540&tz=GMT-05:00&lang=en) - 2018 Summer Graduate Internship Program – ISS – Cyber SecurityThreat Analysis & Analytics – Twin Cities, MN-180006540
