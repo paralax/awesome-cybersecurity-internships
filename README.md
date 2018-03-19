@@ -21,7 +21,6 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Electronic Arts](https://career4.successfactors.com/career?career_ns=job_listing&company=EA&career_job_req_id=116474) - Security Engineer Intern
 * [F-Secure](https://emp.jobylon.com/jobs/18224-f-secure-techy-developer-summer-internship/) - Techy developer summer internship
 * [FS-ISAC](http://www.internships.com/it/cyber-security-internship-position-i8802960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Internship Position
-* [FireEye](https://core.infosecconnect.com/jobs/FireEye/Incident-Response-Red-Team-Internships-Summer-2018/zery5e2u3u/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Incident Response & Red Team Internships -Summer 2018
 * [FireEye](https://www.marylandjobnetwork.com/job/detail/26339003/Cyber-Security-Analyst-Internships-Summer-2018?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - Cyber Security Analyst Internships (Summer 2018)
 * [FireEye](https://universityrelations.fireeye.com/internships) - 2018 IGNITE Intern Program, covering analysis, engineering, endpoint, network, and labs engineering roles
 * [GCHQ](https://www.gchq-careers.co.uk/early-careers/students.html) - Cyber Insights Programme Summer 2018
@@ -45,7 +44,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 
 ## Tech internships but not cybersecurity specific
 
-* [Microsoft](https://careers.microsoft.com/students/explore) - technology, other departments
+* [Microsoft](https://careers.microsoft.com/us/en/students-and-graduates) - technology, other departments
 * [Verizon](http://www.verizon.com/about/careers/college-students) - technology, other departments
 * [Wallmart](https://careers.walmart.com/results?q=summer%20intern&page=1&sort=rank&expand=brand,department,type,rate&jobCareerArea=all) - technology, some cybersecurity
 
