@@ -33,6 +33,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [Major League Baseball](http://www.mlb.com/careers/boc/?gh_jid=1031237) - 2018 Spring Information Security Internship
 * [Mozilla](https://careers.mozilla.org/position/gh/952913) - Networking and Security Intern
 * [National Cyber Forensics Training Alliance](https://www.ncfta.net/Home/Internships) - NCFTA Internship Opportunities
+* [New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Intern-Biz/job/New-York-NY/Information-Security-Intern_REQ-004544) - Information Security Intern
 * [Northrop Grumman](https://ngc.taleo.net/careersection/ngc_addlinfo/jobdetail.ftl?job=1205864&lang=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - 2018 New Cyber Security Intern
 * [Northrop Grumman](https://www.themuse.com/jobs/northropgrumman/new-2018-cyber-securityit-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) - 2018 Cyber Security/IT Intern
 * [Open Systems AG](https://opench.bamboohr.co.uk/jobs/view.php?id=31) - Twice a year we take interns in various, security related, roles.
