@@ -33,7 +33,10 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [National Cyber Forensics Training Alliance](https://www.ncfta.net/hiring/internship-opportunities/) - NCFTA Internship Opportunities
 * [New York Times](https://www.nytco.com/careers/2019-business-summer-internships/) -
 * [Northrop Grumman](http://www.northropgrumman.com/Careers/Students-Entry-Level/Pages/Internships.aspx) 
+* [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns) - Jumping In: Internships & Jobs for New College Grads
+* [Proofpoint](https://www.proofpoint.com/us/careers-intern-job-search)
 * [RSA](https://www.thersa.org/about-us/internships) - RSA internship opportunities
+* [Symantec](https://symantec.wd1.myworkdayjobs.com/university/0/refreshFacet/318c8bb6f553100021d223d9780d30be)
 * [US Bank](https://www.usbank.com/careers/internships/index.html)
 * [US Department of Homeland Security](https://www.cybercareers.gov/students-universities/find-a-job/#fellowship) - Fellowship and Internship Programs
 * [X-Force](https://www.linkedin.com/jobs/view/x-force-iris-security-consultant-internship-summer-2019-undergrad-at-ibm-1104406021) - X-Force IRIS Security Consultant Internship - Summer 2019 (Undergrad)
