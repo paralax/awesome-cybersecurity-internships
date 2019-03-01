@@ -38,6 +38,7 @@ a list of cybersecurity internships, designed to help students identify teams an
 ## Tech internships but not cybersecurity specific
 
 * [Microsoft](https://careers.microsoft.com/us/en/students-and-graduates) - technology, other departments
+* [NERC](https://www.nerc.com/AboutNERC/careers/Pages/Internships.aspx) - NERC's internship program
 * [Verizon](http://www.verizon.com/about/careers/college-students) - technology, other departments
 * [Wallmart](https://careers.walmart.com/results?q=summer%20intern&page=1&sort=rank&expand=brand,department,type,rate&jobCareerArea=all) - technology, some cybersecurity
 
