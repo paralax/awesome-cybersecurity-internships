@@ -13,9 +13,13 @@ a list of cybersecurity internships, designed to help students identify teams an
 * [BAE](https://jobs.baesystems.com/global/en/search-results?keywords=intern%20security) - Engineering and technology internships
 * [Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-US.html) - Cybersecurity Internships particularly in DC, Chicago, Charlotte, Dallas. Reach out to Sounil Yu (@sounilyu) or David Hsiang (@DavidUSC44) for specific details.
 * [Booz Allen Hamilton](https://careers.boozallen.com/en-US/search?keywords=intern%20security&location=) - Corporate Cyber Security Operations Summer Intern in McLean, VA at Booz Allen Hamilton
+* [CIA](https://www.cia.gov/careers/student-opportunities/undergrad-info-assurance.html) - Undergraduate Internship/Co-Op Program - Cyber Security Officer
 * [CIRCL](https://www.circl.lu/projects/internships/) - CIRCL (Computer Incident Response Center Luxembourg) scholarships and internships opportunities in the field of incident response, cybersecurity and open source security tools.
 * [Crowdstrike](https://www.crowdstrike.com/careers/?p=job%2Fovmo6fw5) - Strategic Counter Adversarial Research (SCAR) Intern
+* [Daimler](https://www.google.com/search?q=cybersecurity+internship&oq=cybersecurity+internship&aqs=chrome..69i57j69i60l2.3626j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwih2snSjOHgAhXhRd8KHey9C6AQp4wCMAB6BAgAEBE#htidocid=7gSL3nEd0fhMyeqhAAAAAA%3D%3D) - Seasonal Intern - Cyber Security Analyst
 * [Dell](https://jobs.dell.com/category/internship-jobs/375/24213/1) - Client Solutions Group Engineering Intern Program
+* [DHS](https://www.dhs.gov/homeland-security-careers/cybersecurity-internship-program-0) - Cybersecurity Internship Program
+* [DHS](https://www.dhs.gov/homeland-security-careers/cyber-student-volunteer-initiative) - Cyber Student Volunteer Initiative
 * [Duo](https://duo.com/about/careers) - Several internships available
 * [Electronic Arts](https://www.ea.com/careers/students) - Security Engineer Intern
 * [FireEye](https://universityrelations.fireeye.com/internships) - 2018 IGNITE Intern Program, covering analysis, engineering, endpoint, network, and labs engineering roles
