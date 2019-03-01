@@ -1,6 +1,8 @@
 # awesome-cybersecurity-internships
 a list of cybersecurity internships, designed to help students identify teams and opportunities. 
 
+this is in no way an endorsement of any of these programs, organizations, or the like. this is strictly informational. 
+
 # Table of Contents
   * [Specific cybersecurity internships](#specific-cybersecurity-internships)
   * [Tech internships but not cybersecurity specific](#tech-internships-but-not-cybersecurity-specific)
