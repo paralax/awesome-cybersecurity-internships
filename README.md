@@ -35,7 +35,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [National Cyber Forensics Training Alliance](https://www.ncfta.net/hiring/internship-opportunities/) - NCFTA Internship Opportunities
 * [New York Times](https://www.nytco.com/careers/2019-business-summer-internships/) -
 * [Northrop Grumman](http://www.northropgrumman.com/Careers/Students-Entry-Level/Pages/Internships.aspx) 
-* [Open Systems](https://www.open.ch/en/career/internships.php) - Check the page for past projects and hwo to apply. Based in Zurich, Switzerland. 
+* [Open Systems](https://www.open.ch/en/career/internships.php) - Check the page for past projects and how to apply. Based in Zurich, Switzerland. 
 * [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns) - Jumping In: Internships & Jobs for New College Grads
 * [Proofpoint](https://www.proofpoint.com/us/careers-intern-job-search)
 * [RSA](https://www.thersa.org/about-us/internships) - RSA internship opportunities
