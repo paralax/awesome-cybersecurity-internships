@@ -50,7 +50,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Microsoft](https://careers.microsoft.com/us/en/students-and-graduates) - technology, other departments
 * [NERC](https://www.nerc.com/AboutNERC/careers/Pages/Internships.aspx) - NERC's internship program
 * [Verizon](https://www.verizon.com/about/careers/college-students) - technology, other departments
-* [Wallmart](https://careers.walmart.com/results?q=summer%20intern&page=1&sort=rank&expand=brand,department,type,rate&jobCareerArea=all) - technology, some cybersecurity
+* [Walmart](https://careers.walmart.com/results?q=summer%20intern&page=1&sort=rank&expand=brand,department,type,rate&jobCareerArea=all) - technology, some cybersecurity
 
 ## Teams with no specific internships listed
 
