@@ -24,4 +24,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 # Contributing
 
-When you contribute please submit a link for students to follow to the internship listing and a description.
+When you contribute a PR please submit a link for students to follow to the internship listing and a description:
+
+* Pick the right sections
+* Link to the specific role or an internship program page, don't ask students to hunt around your site
+* Try and list locations with roles
