@@ -16,6 +16,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Incident Response & Red Team Internship - Summer 2020](https://jobs.smartrecruiters.com/FireEyeInc1/743999695064547) - Dallas, TX, United States
 * [Incident Response & Red Team Internship - Summer 2020](https://jobs.smartrecruiters.com/FireEyeInc1/743999695063345) - New York, NY, United States
 * [Incident Response & Red Team Internship - Summer 2020](https://jobs.smartrecruiters.com/FireEyeInc1/743999695065765) - San Francisco, CA, United States
+* [An Internship at Thinkst](https://canary.tools/internship) - Cape Town, South Africa
 
 ## Tech internships but not cybersecurity specific
 
