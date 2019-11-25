@@ -11,6 +11,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 ## Specific cybersecurity internships
 
+* [Duo Security Bachelors (Intern)- United States](https://jobs.cisco.com/jobs/ProjectDetail/Duo-Security-Bachelors-Intern-United-States/1280168) - Ann Arbor, MI and Austin, TX
 * [FireEye: Associate Engineer Intern](https://jobs.smartrecruiters.com/FireEyeInc1/743999691309770) - Amsterdam, Netherlands
 * [FireEye: Incident Response & Red Team Internship - Summer 2020](https://jobs.smartrecruiters.com/FireEyeInc1/743999695065765) - Alexandria, VA, United States
 * [FireEye: Incident Response & Red Team Internship - Summer 2020](https://jobs.smartrecruiters.com/FireEyeInc1/743999695063345) - Dallas, TX, United States
