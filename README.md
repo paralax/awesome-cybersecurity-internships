@@ -28,7 +28,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [IBM - X-Force Red Penetration Tester Intern: Summer 2022 (Security)](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-security-austin-tx/?codes=IBM_CareerWebSite) - Austin, TX, US
 * [Lacework - Data Engineering Intern](https://www.lacework.com/careers/?gh_jid=4196461004) - Remote
 * [Lacework - Data Science Intern](https://www.lacework.com/careers/?gh_jid=4200234004) - Remote 
-* [Lacework - ](https://www.lacework.com/careers/?gh_jid=4195997004) - Remote 
+* [Lacework - Documentation Tools Engineer Intern](https://www.lacework.com/careers/?gh_jid=4195997004) - Remote 
 * [Lacework - Documentation Tools Engineer Intern]() - Remote
 * [Lacework - Software Engineer (Agent) Intern](https://www.lacework.com/careers/?gh_jid=4196159004) - Remote
 * [Lacework - Software Engineer (Front End) Intern](https://www.lacework.com/careers/?gh_jid=4200668004) - Remote
