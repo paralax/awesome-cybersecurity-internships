@@ -11,6 +11,17 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 ## Specific cybersecurity internships
 
+* Crowdstrike, [general internship search results](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be), select ones shown below
+ 	* [Crowdstrike - Threat Intelligence Intern (Automation) - Summer 2022 (Remote, DEU)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Germany---Remote/Threat-Intelligence-Intern--Automation----Summer-2022--Remote--DEU-_R6226) 
+	* [Crowdstrike - Threat Intelligence Intern - Summer 2022 (Remote, DEU)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Germany---Remote/Threat-Intelligence-Intern---Summer-2022--Remote--DEU-_R6225) 
+	* [Crowdstrike - Threat Analyst Intern (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Threat-Analyst-Intern--Remote-_R5748) 
+	* [Crowdstrike - Data Science Intern (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Science-Intern--Remote-_R6131) 
+	* [Crowdstrike - Software Developer Intern (Humio)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Denmark---Aarhus/Software-Developer-Intern--Humio-_R5901) 
+	* [Crowdstrike - Intelligence Analyst Intern, Summer 2022 (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-VA/Intelligence-Analyst-Intern--Summer-2022--Remote-_R4787) 
+	* [Crowdstrike - Software Engineer Intern - Summer 2022 (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777) 
+	* [Crowdstrike - Falcon Complete Analyst Intern - Summer 2022](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Falcon-Complete-Analyst-Intern--Summer-2022-_R4771) 
+	* [Crowdstrike - Product Security Intern - Summer 2022 (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Security-Intern---Summer-2022--Remote-_R5808) 
+
 * [Duo - Duo Motion Design (Intern) United States](https://jobs.cisco.com/jobs/ProjectDetail/Duo-Motion-Design-Intern-United-States/1359015) - Ann Arbor, US or remote
 * [IBM - X-Force Cyber Threat Hunt Analyst Intern: Summer 2022](https://careers.ibm.com/job/14494892/x-force-cyber-threat-hunt-analyst-intern-summer-2022-remote/?codes=IBM_CareerWebSite) - Multiple 
 * [IBM - X-Force Red Penetration Tester Intern: Summer 2022 (Security)](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-security-austin-tx/?codes=IBM_CareerWebSite) - Austin, TX, US
