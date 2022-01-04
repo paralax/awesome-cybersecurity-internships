@@ -58,6 +58,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 	* [Palo Alto Networks - Intern - Machine Learning Engineer (Internet Security)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-machine-learning-engineer-internet-security-santa-clara-c6c79ccc-cb77-45e6-88eb-0e18ab7ac721/) - Santa Clara, CA
 	* [Palo Alto Networks - SW Engineering Intern, Okyo](https://jobs.paloaltonetworks.com/en/jobs/job/sw-engineering-intern-okyo-santa-clara-f37883c7-6faa-4066-870c-cca41f081153/) - Santa Clara, CA
 * [Rapid7 - Information Security Rotation Program - Summer 2022 Start](https://www.rapid7.com/careers/jobs/detail/?jid=R3543) - US - MA - Boston
+* [Sophos - Software Engineering Intern - 12-month Placement](https://careers.sophos.com/job/Abingdon-Software-Engineering-Intern-OX14-3YP/734842302/) - Abingdon, United Kingdom Office
+* [Sophos - Information Technology Intern](https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/) - https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/
 * [Two Six Labs - Summer 2022 Research & Engineering Intern](https://twosixtech.com/job/?gh_jid=4178762004) - Arlington, VA
 
 ## Tech internships but not cybersecurity specific
