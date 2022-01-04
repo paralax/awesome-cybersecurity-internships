@@ -52,10 +52,11 @@ this is in no way an endorsement of any of these programs, organizations, or the
 	* [Palo Alto Networks - Intern - Jr Security Engineer](https://jobs.paloaltonetworks.com/en/jobs/job/intern-jr-security-engineer-santa-clara-937859f0-751a-4c2c-8bec-9c2a1bda08ae/) - Santa Clara, CA 
 	* [Palo Alto Networks - Intern - Security Researcher (Internet Security)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-security-researcher-internet-security-santa-clara-8050bd6e-a22b-46da-abad-f748f71dfddf/) - Santa Clara, CA 
 	* [Palo Alto Networks - Intern - Security Research Engineer](https://jobs.paloaltonetworks.com/en/jobs/job/intern-security-research-engineer-santa-clara-011fdf1e-d4be-4c95-a035-7edd21e63824/) - Santa Clara, CA
-	* [Palo Alto Networks - Intern - Software Engineer (WildFire)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-software-engineer-wildfire-santa-clara-4f10f01e-ab66-4bad-8b5e-e8faf8df37e8/) - Santa Clara, CAA
-	* [Palo Alto Networks - Intern - Software Engineer (Information Technology)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-software-engineer-information-technology-santa-clara-ea2e82e2-e3c0-416d-973f-c5d2d06a1a44/) - Santa Clara, CAA
-	* [Palo Alto Networks - Intern - Machine Learning Engineer (Internet Security)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-machine-learning-engineer-internet-security-santa-clara-c6c79ccc-cb77-45e6-88eb-0e18ab7ac721/) - Santa Clara, CAA
-	* [Palo Alto Networks - SW Engineering Intern, Okyo](https://jobs.paloaltonetworks.com/en/jobs/job/sw-engineering-intern-okyo-santa-clara-f37883c7-6faa-4066-870c-cca41f081153/) - Santa Clara, CAA
+	* [Palo Alto Networks - Intern - Software Engineer (WildFire)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-software-engineer-wildfire-santa-clara-4f10f01e-ab66-4bad-8b5e-e8faf8df37e8/) - Santa Clara, CA
+	* [Palo Alto Networks - Intern - Software Engineer (Information Technology)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-software-engineer-information-technology-santa-clara-ea2e82e2-e3c0-416d-973f-c5d2d06a1a44/) - Santa Clara, CA
+	* [Palo Alto Networks - Intern - Machine Learning Engineer (Internet Security)](https://jobs.paloaltonetworks.com/en/jobs/job/intern-machine-learning-engineer-internet-security-santa-clara-c6c79ccc-cb77-45e6-88eb-0e18ab7ac721/) - Santa Clara, CA
+	* [Palo Alto Networks - SW Engineering Intern, Okyo](https://jobs.paloaltonetworks.com/en/jobs/job/sw-engineering-intern-okyo-santa-clara-f37883c7-6faa-4066-870c-cca41f081153/) - Santa Clara, CA
+* [Rapid7 - Information Security Rotation Program - Summer 2022 Start](https://www.rapid7.com/careers/jobs/detail/?jid=R3543) - US - MA - Boston
 
 ## Tech internships but not cybersecurity specific
 
