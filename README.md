@@ -60,6 +60,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Rapid7 - Information Security Rotation Program - Summer 2022 Start](https://www.rapid7.com/careers/jobs/detail/?jid=R3543) - US - MA - Boston
 * [Raymond James - 2022 Summer Internship Development Program (IDP)- Information Technology and Security](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=2102459&tz=GMT-05%3A00&tzname=America%2FNew_York)
 * [Raymond James - 2022 Accelerated Development Program (ADP) IT and Security Associate- June 2022 Start Date](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=2200010&tz=GMT-05%3A00&tzname=America%2FNew_York)
+* [Red Canary - Security Intern - First Year](https://jobs.lever.co/redcanary/f256252c-5388-4002-a9ce-64c6eb87d9ab) - Remote
+* [Red Canary - Security Intern - Second Year](https://jobs.lever.co/redcanary/1f10fb46-4098-43b6-a9ef-8a3d5ba9b416) - Remote
 * [Sophos - Software Engineering Intern - 12-month Placement](https://careers.sophos.com/job/Abingdon-Software-Engineering-Intern-OX14-3YP/734842302/) - Abingdon, United Kingdom Office
 * [Sophos - Information Technology Intern](https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/) - https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/
 * [Two Six Labs - Summer 2022 Research & Engineering Intern](https://twosixtech.com/job/?gh_jid=4178762004) - Arlington, VA
