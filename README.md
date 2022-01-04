@@ -11,6 +11,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 ## Specific cybersecurity internships
 
+* [Activision - Cyber Security Internship](https://careers.activision.com/job/R009235/Cyber-Security-Internship) - Sherman Oaks, CA
+* [CISA - Cyber Interns](https://www.cisa.gov/cyber-interns)
 * [CISA NICCS - Cyber Intelligence Analyst Internship](https://niccs.cisa.gov/training/search/center-international-cyber-intelligence/cyber-intelligence-analyst-internship) - unpaid, remote
 * Crowdstrike, [general internship search results](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be), select ones shown below
  	* [Crowdstrike - Threat Intelligence Intern (Automation) - Summer 2022 (Remote, DEU)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Germany---Remote/Threat-Intelligence-Intern--Automation----Summer-2022--Remote--DEU-_R6226) 
@@ -81,6 +83,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Sophos - Software Engineering Intern - 12-month Placement](https://careers.sophos.com/job/Abingdon-Software-Engineering-Intern-OX14-3YP/734842302/) - Abingdon, United Kingdom Office
 * [Sophos - Information Technology Intern](https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/) - https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/
 * [Two Six Labs - Summer 2022 Research & Engineering Intern](https://twosixtech.com/job/?gh_jid=4178762004) - Arlington, VA
+* [Walmart - 2022 Summer Intern: Cybersecurity](https://careers.walmart.com/us/jobs/WD690195-2022-summer-intern-cybersecurity) - Bentonville, AR
 
 ## Tech internships but not cybersecurity specific
 
