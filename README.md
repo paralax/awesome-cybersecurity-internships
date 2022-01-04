@@ -49,6 +49,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 ## Tech internships but not cybersecurity specific
 
 ## Teams with no specific internships listed
+* [MITRE - Cybersecurity and Information Security Internships](https://careers.mitre.org/us/en/job/R104589/Cybersecurity-and-Information-Security-Internships) - Multiple locations
 
 # Contributing
 
