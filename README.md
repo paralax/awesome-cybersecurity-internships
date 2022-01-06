@@ -99,7 +99,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 # Contributing
 
-When you contribute a PR please submit a link for students to follow to the internship listing and a description:
+When you contribute a PR please submit a link for students to follow to the internship listing and a description of format Company Name - Role Title, link, and location(s):
 
 * Pick the right sections
 * Link to the specific role or an internship program page, don't ask students to hunt around your site
