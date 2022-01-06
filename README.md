@@ -25,8 +25,9 @@ this is in no way an endorsement of any of these programs, organizations, or the
 	* [Crowdstrike - Software Engineer Intern - Summer 2022 (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Software-Engineer-Intern---Summer-2022--Remote-_R4777) 
 	* [Crowdstrike - Falcon Complete Analyst Intern - Summer 2022](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Falcon-Complete-Analyst-Intern--Summer-2022-_R4771) 
 	* [Crowdstrike - Product Security Intern - Summer 2022 (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Security-Intern---Summer-2022--Remote-_R5808) 
-
+* [Department of Energy - Omni Technology Alliance Internship Program](https://orise.orau.gov/doe-omni/) - Various locations
 * [Duo - Duo Motion Design (Intern) United States](https://jobs.cisco.com/jobs/ProjectDetail/Duo-Motion-Design-Intern-United-States/1359015) - Ann Arbor, US or remote
+* [Florida Blue - IT Internship](https://careers.floridablue.com/us/en/job/25317/IT-Internship) - Jacksonville, FL
 * [Google - Security Engineering Intern, Summer 2022](https://careers.google.com/jobs/results/108878905491759814/) - Multiple
 * [IBM - X-Force Cyber Threat Hunt Analyst Intern: Summer 2022](https://careers.ibm.com/job/14494892/x-force-cyber-threat-hunt-analyst-intern-summer-2022-remote/?codes=IBM_CareerWebSite) - Multiple 
 * [IBM - X-Force Red Penetration Tester Intern: Summer 2022 (Security)](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-security-austin-tx/?codes=IBM_CareerWebSite) - Austin, TX, US
