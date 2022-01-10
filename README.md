@@ -14,7 +14,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Activision - Cyber Security Internship](https://careers.activision.com/job/R009235/Cyber-Security-Internship) - Sherman Oaks, CA
 * [Amazon - Security Engineer Internship - Summer 2022 (US)](https://www.amazon.jobs/en/jobs/1628641/security-engineer-internship-summer-2022-us) - Seattle, WA
 * Apple, [general internship search results](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)
-  * [Apple - ](https://jobs.apple.com/en-us/details/200330169/information-security-internship-program-summer-intake?team=STDNT) - Singapore
+  * [Apple - Information Security Internship Program (Summer Intake)](https://jobs.apple.com/en-us/details/200330169/information-security-internship-program-summer-intake?team=STDNT) - Singapore
   * [Apple - SWE - Intern (Cryptography), SEAR](https://jobs.apple.com/en-us/details/200290250/swe-intern-cryptography-sear?team=STDNT) - Paris
   * [Apple - SWE - Intern (Security Reviewer), Secure Design Team](https://jobs.apple.com/en-us/details/200317154/swe-intern-security-reviewer-secure-design-team?team=STDNT) - London
   * [Apple - Apple Media Products - Intern (Security Researcher)](https://jobs.apple.com/en-us/details/200311573/apple-media-products-intern-security-researcher?team=STDNT) - Paris
