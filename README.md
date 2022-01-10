@@ -13,6 +13,12 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 * [Activision - Cyber Security Internship](https://careers.activision.com/job/R009235/Cyber-Security-Internship) - Sherman Oaks, CA
 * [Amazon - Security Engineer Internship - Summer 2022 (US)](https://www.amazon.jobs/en/jobs/1628641/security-engineer-internship-summer-2022-us) - Seattle, WA
+* Apple, [general internship search results](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)
+  * [Apple - ](https://jobs.apple.com/en-us/details/200330169/information-security-internship-program-summer-intake?team=STDNT) - Singapore
+  * [Apple - SWE - Intern (Cryptography), SEAR](https://jobs.apple.com/en-us/details/200290250/swe-intern-cryptography-sear?team=STDNT) - Paris
+  * [Apple - SWE - Intern (Security Reviewer), Secure Design Team](https://jobs.apple.com/en-us/details/200317154/swe-intern-security-reviewer-secure-design-team?team=STDNT) - London
+  * [Apple - Apple Media Products - Intern (Security Researcher)](https://jobs.apple.com/en-us/details/200311573/apple-media-products-intern-security-researcher?team=STDNT) - Paris
+  * [Apple - SWE - Intern (Software Vulnerability Exploitation Research), SEAR](https://jobs.apple.com/en-us/details/200290252/swe-intern-software-vulnerability-exploitation-research-sear?team=STDNT) - Paris
 * [CISA - Cyber Interns](https://www.cisa.gov/cyber-interns)
 * [CISA NICCS - Cyber Intelligence Analyst Internship](https://niccs.cisa.gov/training/search/center-international-cyber-intelligence/cyber-intelligence-analyst-internship) - unpaid, remote
 * Crowdstrike, [general internship search results](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be), select ones shown below
