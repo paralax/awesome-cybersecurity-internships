@@ -38,14 +38,15 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Google - Security Engineering Intern, Summer 2022](https://careers.google.com/jobs/results/108878905491759814/) - Multiple
 * [IBM - X-Force Cyber Threat Hunt Analyst Intern: Summer 2022](https://careers.ibm.com/job/14494892/x-force-cyber-threat-hunt-analyst-intern-summer-2022-remote/?codes=IBM_CareerWebSite) - Multiple 
 * [IBM - X-Force Red Penetration Tester Intern: Summer 2022 (Security)](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-security-austin-tx/?codes=IBM_CareerWebSite) - Austin, TX, US
-* [Lacework - Data Engineering Intern](https://www.lacework.com/careers/?gh_jid=4196461004) - Remote
-* [Lacework - Data Science Intern](https://www.lacework.com/careers/?gh_jid=4200234004) - Remote 
-* [Lacework - Documentation Tools Engineer Intern](https://www.lacework.com/careers/?gh_jid=4195997004) - Remote 
-* [Lacework - Documentation Tools Engineer Intern]() - Remote
-* [Lacework - Software Engineer (Agent) Intern](https://www.lacework.com/careers/?gh_jid=4196159004) - Remote
-* [Lacework - Software Engineer (Front End) Intern](https://www.lacework.com/careers/?gh_jid=4200668004) - Remote
-* [Lacework - Software Engineering Intern, Cloud Optimization](https://www.lacework.com/careers/?gh_jid=4200752004) - Remote
-* [Lacework - Technical Writing Intern](https://www.lacework.com/careers/?gh_jid=4195999004) - Remote
+* Lacework
+	* [Lacework - Data Engineering Intern](https://www.lacework.com/careers/?gh_jid=4196461004) - Remote
+	* [Lacework - Data Science Intern](https://www.lacework.com/careers/?gh_jid=4200234004) - Remote 
+	* [Lacework - Documentation Tools Engineer Intern](https://www.lacework.com/careers/?gh_jid=4195997004) - Remote 
+	* [Lacework - Documentation Tools Engineer Intern]() - Remote
+	* [Lacework - Software Engineer (Agent) Intern](https://www.lacework.com/careers/?gh_jid=4196159004) - Remote
+	* [Lacework - Software Engineer (Front End) Intern](https://www.lacework.com/careers/?gh_jid=4200668004) - Remote
+	* [Lacework - Software Engineering Intern, Cloud Optimization](https://www.lacework.com/careers/?gh_jid=4200752004) - Remote
+	* [Lacework - Technical Writing Intern](https://www.lacework.com/careers/?gh_jid=4195999004) - Remote
 * Mandiant 
 	* [Mandiant - Information Security Intern - Summer 2022](https://jobs.smartrecruiters.com/Mandiant/743999785846753) - Dallas, TX
 	* [Mandiant - Information Security Intern - Summer 2022](https://jobs.smartrecruiters.com/Mandiant/743999778638965) - Toronto, ON, Canada
@@ -68,14 +69,15 @@ this is in no way an endorsement of any of these programs, organizations, or the
 	* [Mandiant - Threat Intelligence Analyst Intern - Financial Crime - Summer 2022](https://jobs.smartrecruiters.com/Mandiant/743999793291662) - Reston, VA
 * [Microsoft - Research Intern - Security and AI](https://careers.microsoft.com/students/us/en/job/1228169/Research-Intern-Security-and-AI) - Redmond, Washington, United States
 * [Microsoft - Research Intern - Deep Learning](https://careers.microsoft.com/students/us/en/job/1214891/Research-Intern-Deep-Learning) - Redmond, Washington, United States
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Austin-TX/Security-Intern_R5275) = Austin, TX
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Sunnyvale-CA/Security-Intern_R5230) - Sunnyvale, VA
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Waterloo-ON/Security-Intern_R5227) - Waterloo, ON, CA
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Seattle-WA/Security-Intern_R5225) - Seattle, WA
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Chicago-IL/Security-Intern_R5226) - Chicago, IL
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/San-Francisco-CA/Security-Intern_R5229) - San Francisco, CA
-* [NCC Group - Fox-IT Internships](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/New-York-NY/Security-Intern_R5231) - New York, NY
-* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Delft/Internships_R3472) - Delft, NL
+* NCC Group
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Austin-TX/Security-Intern_R5275) - Austin, TX
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Sunnyvale-CA/Security-Intern_R5230) - Sunnyvale, VA
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Waterloo-ON/Security-Intern_R5227) - Waterloo, ON, CA
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Seattle-WA/Security-Intern_R5225) - Seattle, WA
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Chicago-IL/Security-Intern_R5226) - Chicago, IL
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/San-Francisco-CA/Security-Intern_R5229) - San Francisco, CA
+	* [NCC Group - Fox-IT Internships](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/New-York-NY/Security-Intern_R5231) - New York, NY
+	* [NCC Group - Security Intern](https://nccgroup.wd3.myworkdayjobs.com/en-US/NCC_Group/job/Delft/Internships_R3472) - Delft, NL
 * [NIST - NICE Cybersecurity Apprenticeship Program Finder](https://content.govdelivery.com/accounts/USNIST/bulletins/303f66e) - Multiple locations
 * Palo Alto Networks - [general internship search results](https://jobs.paloaltonetworks.com/en/jobs/?page=1&search=internship#results), select ones shown below
 	* [Palo Alto Networks - Intern - Data Scientist](https://jobs.paloaltonetworks.com/en/jobs/job/intern-data-scientist-santa-clara-1d17623d-549f-4a33-aa69-a3b93ee7f675/) - Santa Clara, CA
