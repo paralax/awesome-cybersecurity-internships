@@ -97,6 +97,9 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Raymond James - 2022 Accelerated Development Program (ADP) IT and Security Associate- June 2022 Start Date](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=2200010&tz=GMT-05%3A00&tzname=America%2FNew_York)
 * [Red Canary - Security Intern - First Year](https://jobs.lever.co/redcanary/f256252c-5388-4002-a9ce-64c6eb87d9ab) - Remote
 * [Red Canary - Security Intern - Second Year](https://jobs.lever.co/redcanary/1f10fb46-4098-43b6-a9ef-8a3d5ba9b416) - Remote
+* Salesforce, [general internship listings](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships?d=cta-summer-explore-sjb-1), select ones shown below:
+	* [Salesforce - Summer 2022 Intern - Systems Engineer (Security), MuleSoft](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Systems-Engineer--Security-_JR124486?d=cta-summer-explore-sjb-1) - San Francisco, Denver, Bellvue, Seattle
+	* [Salesforce - Summer 2022 Intern - Technical Program Manager (Security Assurance)](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Technical-Program-Manager--Security-Assurance-_JR127145?d=cta-summer-explore-sjb-1) - San Francisco, Burlington, Denver, Bellvue	
 * [Sophos - Software Engineering Intern - 12-month Placement](https://careers.sophos.com/job/Abingdon-Software-Engineering-Intern-OX14-3YP/734842302/) - Abingdon, United Kingdom Office
 * [Sophos - Information Technology Intern](https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/) - https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/
 * [Two Six Labs - Summer 2022 Research & Engineering Intern](https://twosixtech.com/job/?gh_jid=4178762004) - Arlington, VA
