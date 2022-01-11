@@ -103,6 +103,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Walmart - 2022 Summer Intern: Cybersecurity](https://careers.walmart.com/us/jobs/WD690195-2022-summer-intern-cybersecurity) - Bentonville, AR
 
 ## Tech internships but not cybersecurity specific
+* [GE - Internships](https://jobs.gecareers.com/global/en/internships-co-ops) - Multiple
+* [RedHat - Internships](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) - Multiple
 
 ## Teams with no specific internships listed
 * [FireEye IGNITE Program](https://www.fireeye.com/company/jobs/internships/apply.html) 
