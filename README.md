@@ -34,6 +34,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Department of Energy - Omni Technology Alliance Internship Program](https://orise.orau.gov/doe-omni/) - Various locations
 * [Dragos - UI/UX Intern](https://jobs.lever.co/dragos/89594143-b620-41c2-a102-c3913b95922e) - Remote, USA
 * [Duo - Duo Motion Design (Intern) United States](https://jobs.cisco.com/jobs/ProjectDetail/Duo-Motion-Design-Intern-United-States/1359015) - Ann Arbor, US or remote
+* [Evidence-Based Cybersecurity Research Training and Mentorship](https://cdn.gsu.edu/sapp/#/internships)
 * [Florida Blue - IT Internship](https://careers.floridablue.com/us/en/job/25317/IT-Internship) - Jacksonville, FL
 * [Google - Security Engineering Intern, Summer 2022](https://careers.google.com/jobs/results/108878905491759814/) - Multiple
 * [IBM - X-Force Cyber Threat Hunt Analyst Intern: Summer 2022](https://careers.ibm.com/job/14494892/x-force-cyber-threat-hunt-analyst-intern-summer-2022-remote/?codes=IBM_CareerWebSite) - Multiple 
