@@ -21,6 +21,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
   * [Apple - SWE - Intern (Software Vulnerability Exploitation Research), SEAR](https://jobs.apple.com/en-us/details/200290252/swe-intern-software-vulnerability-exploitation-research-sear?team=STDNT) - Paris
 * [CENSUS Labs - Junior IT Security Professional Internship](https://census-labs.com/openings/#cfina) - Athens, Greece
 * [CENSUS Labs - Junior Vulnerability Researcher Internship](https://census-labs.com/openings/#cfina) - Athens, Greece
+* [CIRCL (Computer Incident Response Center Luxembourg) - Internships](https://www.circl.lu/projects/internships/) - Luxembourg, Europe (or remote)
 * [CISA - Cyber Interns](https://www.cisa.gov/cyber-interns)
 * [CISA NICCS - Cyber Intelligence Analyst Internship](https://niccs.cisa.gov/training/search/center-international-cyber-intelligence/cyber-intelligence-analyst-internship) - unpaid, remote
 * Crowdstrike, [general internship search results](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be), select ones shown below
