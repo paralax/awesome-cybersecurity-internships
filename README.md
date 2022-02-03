@@ -40,6 +40,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Evidence-Based Cybersecurity Research Training and Mentorship](https://cdn.gsu.edu/sapp/#/internships)
 * [Florida Blue - IT Internship](https://careers.floridablue.com/us/en/job/25317/IT-Internship) - Jacksonville, FL
 * [Google - Security Engineering Intern, Summer 2022](https://careers.google.com/jobs/results/108878905491759814/) - Multiple
+* [IBM - Cybersecurity Consultant Intern: Summer 2022](https://careers.ibm.com/job/13646066/cybersecurity-consultant-intern-summer-2022-remote/?codes=IBM_CareerWebSite) - Multiple
 * [IBM - X-Force Cyber Threat Hunt Analyst Intern: Summer 2022](https://careers.ibm.com/job/14494892/x-force-cyber-threat-hunt-analyst-intern-summer-2022-remote/?codes=IBM_CareerWebSite) - Multiple 
 * [IBM - X-Force Red Penetration Tester Intern: Summer 2022 (Security)](https://careers.ibm.com/job/13637783/x-force-red-penetration-tester-intern-summer-2022-security-austin-tx/?codes=IBM_CareerWebSite) - Austin, TX, US
 * Lacework
