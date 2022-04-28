@@ -109,6 +109,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Sophos - Information Technology Intern](https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/) - https://careers.sophos.com/job/Ahmedabad-Intern-GJ-380006/736894702/
 * [Two Six Labs - Summer 2022 Research & Engineering Intern](https://twosixtech.com/job/?gh_jid=4178762004) - Arlington, VA
 * [Walmart - 2022 Summer Intern: Cybersecurity](https://careers.walmart.com/us/jobs/WD690195-2022-summer-intern-cybersecurity) - Bentonville, AR
+* [US Government - White House: Cybersecurity Intern](https://www.house.gov/employment/positions-with-other-house-organizations/7640) - U.S. House of Representatives, Washington, D.C.
 
 ## Tech internships but not cybersecurity specific
 * [GE - Internships](https://jobs.gecareers.com/global/en/internships-co-ops) - Multiple
