@@ -102,6 +102,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [Raymond James - 2022 Accelerated Development Program (ADP) IT and Security Associate- June 2022 Start Date](https://raymondjames.taleo.net/careersection/rj_extcareersection052308/jobdetail.ftl?job=2200010&tz=GMT-05%3A00&tzname=America%2FNew_York)
 * [Red Canary - Security Intern - First Year](https://jobs.lever.co/redcanary/f256252c-5388-4002-a9ce-64c6eb87d9ab) - Remote
 * [Red Canary - Security Intern - Second Year](https://jobs.lever.co/redcanary/1f10fb46-4098-43b6-a9ef-8a3d5ba9b416) - Remote
+* [Riscure - Technical internship in the security domain](https://riscure.recruitee.com/o/technical-internship-in-the-security-domain) - Variable Locations
+* [Riscure - Software Development Internship](https://riscure.recruitee.com/o/software-development-internship) - Variable Locations
 * Salesforce, [general internship listings](https://salesforce.wd1.myworkdayjobs.com/Futureforce_Internships?d=cta-summer-explore-sjb-1), select ones shown below:
 	* [Salesforce - Summer 2022 Intern - Systems Engineer (Security), MuleSoft](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Systems-Engineer--Security-_JR124486?d=cta-summer-explore-sjb-1) - San Francisco, Denver, Bellvue, Seattle
 	* [Salesforce - Summer 2022 Intern - Technical Program Manager (Security Assurance)](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Technical-Program-Manager--Security-Assurance-_JR127145?d=cta-summer-explore-sjb-1) - San Francisco, Burlington, Denver, Bellvue	
