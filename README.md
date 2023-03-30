@@ -18,7 +18,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
   * [Professional Services Intern - Incident Response, Summer 2023](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Professional-Services-Intern---Incident-Response--Summer-2023--Remote--GBR-_R11663?q=internship) - Remote, GBR
   * [Security Advisor Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---San-Antonio-TX/Security-Advisor-Intern_R11651?q=internship) - Austin, TX USA
 * [HealthEquity Intern - Security Operations](https://careers-healthequity.icims.com/jobs/5218/intern---security-operations/job?mobile=false&width=995&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) - Remote
-* [Mandiant/Google](https://careers.google.com/jobs/results/110830639655068358-security-consultant-intern-summer-2023/) NYC or Reston, VA
+* [Mandiant/Google](https://careers.google.com/jobs/results/110830639655068358-security-consultant-intern-summer-2023/) NYC, Washington DC, San Francisco, or Reston, VA
 * [NFP Cyber Security Intern](https://www.linkedin.com/jobs/view/3443446856/) - Austin, TX Hybrid 
 
 ## Tech internships but not cybersecurity specific
