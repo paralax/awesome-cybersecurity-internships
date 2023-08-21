@@ -26,6 +26,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [HealthEquity Intern - Security Operations](https://careers-healthequity.icims.com/jobs/5218/intern---security-operations/job?mobile=false&width=995&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) - Remote
 * [Mandiant/Google](https://careers.google.com/jobs/results/110830639655068358-security-consultant-intern-summer-2023/) NYC, Washington DC, San Francisco, or Reston, VA
 * [Microsoft](https://microsoft.talentify.io/job/research-intern-cybersecurity-machine-learning-redmond-washington-microsoft-1496779) - Research Intern - Cybersecurity Machine Learning, Redmon, WA
+* [Nave Security](https://www.linkedin.com/feed/update/urn:li:activity:7097899516959367168/) - Red Team Intern, Location unknown
 * [NFP Cyber Security Intern](https://www.linkedin.com/jobs/view/3443446856/) - Austin, TX Hybrid
 
 ### Tech internships but not cybersecurity specific
