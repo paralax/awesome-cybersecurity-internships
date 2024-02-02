@@ -16,6 +16,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 ### Specific cybersecurity internships
 
 * [Google/Mandiant- Security Consultant Intern, BS/MS, Summer 2024](https://www.google.com/about/careers/applications/jobs/results/115990305787781830-security-consultant-intern-bsms-summer-2024) - Multiple in-office, USA
+* [Palo Alto Unit 42](https://app.ripplematch.com/v2/public/job/791cfa0c/details) - Reston, VA, USA
 
 ### Tech internships but not cybersecurity specific
 
