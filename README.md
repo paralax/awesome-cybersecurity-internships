@@ -33,6 +33,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
   * [Information Security - Engineering Intern - Summer 2026 - Arlington, VA](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Intern--Information-Security---Engineering_R-256630)
   * [Information Security - Engineering Intern, Summer 2026 - New York City, NY](https://mastercard.wd1.myworkdayjobs.com/Campus/job/New-York-City-New-York/Intern--Information-Security---Engineering_R-256632)
 * [pwc Germany – Intern/working student Cyber Security & IT Risk Management](https://jobs.pwc.de/de/de/job/PWFPGKGB1482EXTERNALDEDE/Praktikum-Werkstudent-Cyber-Security-IT-Risk-Management-w-m-d) – multiple, in Germany
+* Quarkslab [Internship Offers for the 2025-2026 Season](https://blog.quarkslab.com/internship-offers-for-the-2025-2026-season.html), Paris, France
 * Rivian [Cybersecurity - Summer 2026 Internships](https://careers.rivian.com/careers-home/jobs/27719?lang=en-us), Palo Alto, California; Irvine, California; Normal, Illinois; Plymouth, Michigan
 
 ### Tech internships but not cybersecurity specific
