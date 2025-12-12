@@ -19,6 +19,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
   * [Cybersecurity Engineering Intern](https://careers.cencora.com/us/en/job/R2517578/Cybersecurity-Engineering-Intern), Conshohocken, Pennsylvania
   * [Cyber Risk Management Intern](https://careers.cencora.com/us/en/job/R2517573/Cyber-Risk-Management-Intern), Conshohocken, Pennsylvania
 * Comcast [Comcast Security Analyst Intern](https://jobs.comcast.com/job/mount-laurel/comcast-security-analyst-intern/45483/86173916208), Mount Laurel, New Jersey
+* Fortinet [Fortinet Early Talent Program](https://www.fortinet.com/corporate/careers/early-talent-program)
 * Google
   * [Security Consultant Intern, BS/MS, Summer 2026](https://www.google.com/about/careers/applications/jobs/results/120043261464060614-security-consultant-intern-bsms-summer-2026), Mountain View, CA
 * Home Depot [Cybersecurity Internship (Summer 2026 - Remote)](https://www.linkedin.com/jobs/view/4301972314/?refId=nSs3CHdVnJzn4IlE5UuMyg%3D%3D&trackingId=nSs3CHdVnJzn4IlE5UuMyg%3D%3D)
@@ -35,6 +36,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [pwc Germany – Intern/working student Cyber Security & IT Risk Management](https://jobs.pwc.de/de/de/job/PWFPGKGB1482EXTERNALDEDE/Praktikum-Werkstudent-Cyber-Security-IT-Risk-Management-w-m-d) – multiple, in Germany
 * Quarkslab [Internship Offers for the 2025-2026 Season](https://blog.quarkslab.com/internship-offers-for-the-2025-2026-season.html), Paris, France
 * Rivian [Cybersecurity - Summer 2026 Internships](https://careers.rivian.com/careers-home/jobs/27719?lang=en-us), Palo Alto, California; Irvine, California; Normal, Illinois; Plymouth, Michigan
+* Under Armour [Summer 2026 Internship, CyberSecurity](https://careers.underarmour.com/job/Baltimore-Summer-2026-Internship%2C-CyberSecurity-MD-21230/1330071000/), Baltimore, MD.
 
 ### Tech internships but not cybersecurity specific
 
