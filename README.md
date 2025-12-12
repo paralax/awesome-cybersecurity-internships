@@ -21,6 +21,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * Comcast [Comcast Security Analyst Intern](https://jobs.comcast.com/job/mount-laurel/comcast-security-analyst-intern/45483/86173916208), Mount Laurel, New Jersey
 * Google
   * [Security Consultant Intern, BS/MS, Summer 2026](https://www.google.com/about/careers/applications/jobs/results/120043261464060614-security-consultant-intern-bsms-summer-2026), Mountain View, CA
+* Home Depot [Cybersecurity Internship (Summer 2026 - Remote)](https://www.linkedin.com/jobs/view/4301972314/?refId=nSs3CHdVnJzn4IlE5UuMyg%3D%3D&trackingId=nSs3CHdVnJzn4IlE5UuMyg%3D%3D)
 * IBM
   * [Associate X-Force Cyber Range Consultant Intern 2026](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57116&source=WEB_Intern_NA), WASHINGTON, District of Columbia, United States
   * [Intern 2026: Quantum Security tooling](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60313&source=WEB_Search_NA), Yorktown Heights, San Jose, Cambridge, Albany, New York, Massachusetts, California, United States
@@ -31,7 +32,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
   * [Information Security - Engineering Intern - Summer 2026 - St. Louis, MO](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Intern--Information-Security---Engineering_R-256633)
   * [Information Security - Engineering Intern - Summer 2026 - Arlington, VA](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Intern--Information-Security---Engineering_R-256630)
   * [Information Security - Engineering Intern, Summer 2026 - New York City, NY](https://mastercard.wd1.myworkdayjobs.com/Campus/job/New-York-City-New-York/Intern--Information-Security---Engineering_R-256632)
-* Home Depot [Cybersecurity Internship (Summer 2026 - Remote)](https://www.linkedin.com/jobs/view/4301972314/?refId=nSs3CHdVnJzn4IlE5UuMyg%3D%3D&trackingId=nSs3CHdVnJzn4IlE5UuMyg%3D%3D)
+* Rivian [Cybersecurity - Summer 2026 Internships](https://careers.rivian.com/careers-home/jobs/27719?lang=en-us), Palo Alto, California; Irvine, California; Normal, Illinois; Plymouth, Michigan
 
 ### Tech internships but not cybersecurity specific
 
