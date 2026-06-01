@@ -41,6 +41,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
 
 ### Tech internships but not cybersecurity specific
 
+* [Hanzilla Jobs - Canada student internships/co-ops](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian student/recent-grad jobs board with internships, co-ops, new grad, junior, and entry-level roles across tech/software plus finance, engineering, business, sciences, and more.
 * IBM
   * [Associate Developer Intern 2026](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58077&source=WEB_Search_NA), Sandy Springs, Brookhaven, Houston, Austin, Chicago, Georgia, Illinois, Texas, United States
   * [Associate Designer Intern 2026](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57353&source=WEB_Search_NA), Sandy Springs, Brookhaven, Austin, Chicago, Georgia, Illinois, Texas, United States
