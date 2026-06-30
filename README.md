@@ -37,7 +37,8 @@ this is in no way an endorsement of any of these programs, organizations, or the
 * [pwc Germany – Intern/working student Cyber Security & IT Risk Management](https://jobs.pwc.de/de/de/job/PWFPGKGB1482EXTERNALDEDE/Praktikum-Werkstudent-Cyber-Security-IT-Risk-Management-w-m-d) – multiple, in Germany
 * Quarkslab [Internship Offers for the 2025-2026 Season](https://blog.quarkslab.com/internship-offers-for-the-2025-2026-season.html), Paris, France
 * Rivian [Cybersecurity - Summer 2026 Internships](https://careers.rivian.com/careers-home/jobs/27719?lang=en-us), Palo Alto, California; Irvine, California; Normal, Illinois; Plymouth, Michigan
-* Under Armour [Summer 2026 Internship, CyberSecurity](https://careers.underarmour.com/job/Baltimore-Summer-2026-Internship%2C-CyberSecurity-MD-21230/1330071000/), Baltimore, MD.
+* ThreatLocker [Jr Cyber Hero Intern](https://job-boards.greenhouse.io/threatlocker/jobs/5744483004), Orlando, FL 
+* Under Armour [Summer 2026 Internship, CyberSecurity](https://careers.underarmour.com/job/Baltimore-Summer-2026-Internship%2C-CyberSecurity-MD-21230/1330071000/), Baltimore, MD
 
 ### Tech internships but not cybersecurity specific
 
