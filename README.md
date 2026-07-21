@@ -27,6 +27,7 @@ this is in no way an endorsement of any of these programs, organizations, or the
   * [Associate X-Force Cyber Range Consultant Intern 2026](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57116&source=WEB_Intern_NA), WASHINGTON, District of Columbia, United States
   * [Intern 2026: Quantum Security tooling](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60313&source=WEB_Search_NA), Yorktown Heights, San Jose, Cambridge, Albany, New York, Massachusetts, California, United States
   * [Intern 2026: Software Developer - Security](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59668&source=WEB_Search_NA), Yorktown Heights, San Jose, Cambridge, Albany, New York, Massachusetts, California, United States
+  * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
   * [Intern 2026: AI and Agentic Security Intern](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA), Yorktown Heights, San Jose, Cambridge, Albany, New York, Massachusetts, California, United States  
 * Mastercard
   * [Information Security - Operations Intern, Summer 2026 - Purchase, NY](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/Intern--Information-Security---Operations_R-256634)
